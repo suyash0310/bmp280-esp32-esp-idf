@@ -143,3 +143,9 @@ void app_main(void)
 ```
 
 ---
+## Hardware Configuration and Results
+<img width="1280" height="960" alt="bmp-280 setup" src="https://github.com/user-attachments/assets/54acca49-28fd-4b24-be64-49d7022ab3b3" />
+<img width="1917" height="977" alt="bmp-280 output" src="https://github.com/user-attachments/assets/1dc608c3-6990-4136-883e-7d1aac8eac96" />
+<img width="1476" height="918" alt="Logic analyzer" src="https://github.com/user-attachments/assets/d6d095d2-8aca-4119-a347-7ad137ab924a" />
+
+
